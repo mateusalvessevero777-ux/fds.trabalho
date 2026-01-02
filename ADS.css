@@ -1,0 +1,56 @@
+.titulo{
+    text-align: center;
+}
+
+body{
+    background-color: papayawhip;
+}
+
+p{
+    font-size: 25px;
+    text-align: justify;
+}
+
+.coisas{
+    font-weight: bolder;
+}
+
+img{
+    width: 300px;
+    height: 200px;
+    
+}
+
+table, th, td{
+    border: 3px solid black;
+}
+
+
+table{
+    position: relative;
+    left: 500px;
+    bottom: 1300px;
+    background-color: brown;
+    width: 700px;
+    border-collapse: collapse;
+    float: left;
+}
+
+th{
+    height: 70px;
+    text-align: center;
+    
+}
+
+.pais{
+    text-align: center;
+}
+
+.sim{
+    border-radius: 10%;
+    border: 1px solid black;
+}
+
+a:hover{
+    color: green;
+}
